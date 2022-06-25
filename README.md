@@ -1,0 +1,2 @@
+# gamersd
+Hadir tapi mager
